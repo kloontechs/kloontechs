@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kloontechs
-- 👀 I’m interested in Computer Networking, Embedded systems and tending technologies 
-- 🌱 I’m currently learning AI
+- 👀 I’m a Computer and Network
+- 🌱 I major in Networking, Cybersecurity, Embedded Systems and  IOT
 - 💞️ I’m looking to collaborate on embedded systems
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
